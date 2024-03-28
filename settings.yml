@@ -1,4 +1,4 @@
-example_setting:
-  default: true
-  description:
-    en: A description of a setting.
+share_topic_date_with_year_format:
+  default: "MMM D, YYYY LTS"
+share_topic_date_without_year_format:
+  default: "MMM D LTS"
