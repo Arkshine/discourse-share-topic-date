@@ -1,4 +1,4 @@
 share_topic_date_with_year_format:
   default: "MMM D, YYYY LTS"
 share_topic_date_without_year_format:
-  default: "MMM D LTS"
+  default: "MMM D, LTS"
